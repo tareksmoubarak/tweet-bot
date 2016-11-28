@@ -1,0 +1,14 @@
+{
+  "name": "tweet-bot",
+  "version": "0.0.1",
+  "description": "This is a simple Twitter bot and will retweet, favorite/like randomly on the basis of hashtags as a query that we will use and continue to do so after a certain period of time interval.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarek Moubarak",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
